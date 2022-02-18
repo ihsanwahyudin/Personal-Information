@@ -2,7 +2,7 @@
 <br>
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=ihsanwahyudin&show_icons=true&theme=tokyonight)](https://github.com/ihsanwahyudin)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanwahyudin&layout=compact&theme=buefy&hide_border=true)](https://github.com/ihsanwahyudin)
 
 **Languages and Tools:**  
 
