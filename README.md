@@ -1,4 +1,4 @@
-<p align="center"><strong>Muhammad Ihsan Wahyudin</strong></p>
+<p align="center"><strong>Have a nice day ...</strong></p>
 <br>
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=ihsanwahyudin&show_icons=true&theme=tokyonight)](https://github.com/ihsanwahyudin)
