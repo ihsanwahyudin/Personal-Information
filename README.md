@@ -1,6 +1,3 @@
-<p align="center"><strong>Have a nice day ...</strong></p>
-<br>
-
 [![My Stats](https://github-readme-stats.vercel.app/api?username=ihsanwahyudin&show_icons=true&theme=tokyonight)](https://github.com/ihsanwahyudin)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanwahyudin&layout=compact&theme=buefy&hide_border=true)](https://github.com/ihsanwahyudin)
 
